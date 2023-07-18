@@ -1,0 +1,12 @@
+.feed{
+    display: flex;
+    flex-direction: row;
+}
+
+.feed_left{
+    flex: 0.7;
+}
+
+.feed_right{
+    flex: 0.3;
+}
